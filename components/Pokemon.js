@@ -25,4 +25,4 @@ const Pokemon = ({pokemon, index}) => {
     );
 };
 
-export default Pokemon
+export default Pokemon;
